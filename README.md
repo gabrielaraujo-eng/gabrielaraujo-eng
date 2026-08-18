@@ -1,5 +1,14 @@
 # Olá, eu sou o Gabriel Lúcio! 👋
 
+<div align="center">
+
+🖤 GABRIEL LÚCIO
+Desenvolvedor em formação
+
+Python • C++ • Haskell • HTML • CSS
+
+</div>
+
 > **Esta é minha conta secundária no GitHub, utilizada para estudos, testes e projetos complementares.**
 
 Minha conta principal é:
