@@ -209,27 +209,12 @@ Projeto de desenvolvimento de uma aplicação web para uma pizzaria.
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/203-CONTRIBUIÇÕES-4078c0?style=for-the-badge&labelColor=161b22"></td>
 <td align="center"><img src="https://img.shields.io/badge/7-REPOSITÓRIOS-8957e5?style=for-the-badge&labelColor=161b22"></td>
-<td align="center"><img src="https://img.shields.io/badge/3-PRs%20MESCLADOS-2ea44f?style=for-the-badge&labelColor=161b22"></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/3-PULL%20REQUESTS-f9826c?style=for-the-badge&labelColor=161b22"></td>
-<td align="center"><img src="https://img.shields.io/badge/1-ISSUE-f1e05a?style=for-the-badge&labelColor=161b22"></td>
-<td align="center"><img src="https://img.shields.io/badge/2-ESTRELAS-e3b341?style=for-the-badge&labelColor=161b22"></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/0-FORKS-6e7681?style=for-the-badge&labelColor=161b22"></td>
-<td align="center"><img src="https://img.shields.io/badge/1-SEGUIDOR-58a6ff?style=for-the-badge&labelColor=161b22"></td>
-<td align="center"><img src="https://img.shields.io/badge/2-SEGUINDO-b392f0?style=for-the-badge&labelColor=161b22"></td>
 </tr>
 </table>
 
 <br>
 
-<sub>Dados consultados em 12/11/2026 · os números de contribuições e atividades continuam sendo atualizados conforme o perfil evolui.</sub>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=gabrielaraujo-eng&theme=tokyonight&hide_border=true">
+<sub>Dados consultados em 12/11/2026.</sub>
 
 </div>
 
