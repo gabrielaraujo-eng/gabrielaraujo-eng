@@ -141,7 +141,17 @@ Transformando exercícios, estudos e ideias em projetos práticos.
 
 <table>
 <tr>
+<td colspan="2" align="center">
 
+### #1 • SITE DE ARCADE
+
+O projeto principal do momento: uma experiência de arcade para reunir jogos, identidade visual e interação em um só lugar.
+
+**Status:** Em desenvolvimento • Projeto secreto
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### SmartCoffee
