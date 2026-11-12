@@ -154,7 +154,7 @@ O projeto principal do momento: uma experiência de arcade para reunir jogos, id
 <tr>
 <td width="50%">
 
-### SmartCoffee
+### [SmartCoffee](https://github.com/gabrielaraujo-eng/SmartCoffee)
 
 Projeto de desenvolvimento web para uma cafeteria, trabalhando estrutura de páginas, organização de conteúdo e identidade visual.
 
@@ -164,7 +164,7 @@ Projeto de desenvolvimento web para uma cafeteria, trabalhando estrutura de pág
 
 <td width="50%">
 
-### Sistema de Oficina
+### [Curso SENAI](https://github.com/gabrielaraujo-eng/Curso_senai)
 
 Projeto acadêmico envolvendo modelagem de banco de dados, entidades, atributos e relacionamentos.
 
@@ -178,7 +178,7 @@ Projeto acadêmico envolvendo modelagem de banco de dados, entidades, atributos 
 
 <td width="50%">
 
-### Projetos de Programação
+### [Projetos de Programação](https://github.com/gabrielaraujo-eng/projetos)
 
 Exercícios e aplicações desenvolvidas durante os estudos de programação.
 
@@ -188,11 +188,11 @@ Exercícios e aplicações desenvolvidas durante os estudos de programação.
 
 <td width="50%">
 
-### Projetos em desenvolvimento
+### [CapivaPizza](https://github.com/gabrielaraujo-eng/CapivaPizza)
 
-Novas ideias e aplicações que ainda estão sendo construídas e aprimoradas.
+Projeto de desenvolvimento de uma aplicação web para uma pizzaria.
 
-**Status:** Em desenvolvimento
+**Tecnologias:** Desenvolvimento Web • Projeto pessoal
 
 </td>
 
