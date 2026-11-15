@@ -14,6 +14,9 @@ e transformando ideias em código.
 <a href="https://github.com/gabrielaraujo-eng">
 <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/gabriel-lúcio-de-araújo-b179b93b4/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
