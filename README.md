@@ -211,15 +211,6 @@ Trabalho acadêmico em dupla para acompanhar o consumo residencial de água e id
 **Tecnologias:** HTML • CSS • JavaScript • GitHub Pages
 
 </td>
-<td width="50%">
-
-### [Vingadores da Programação](https://github.com/gabrielaraujo-eng/VingadoresDaProgramacao)
-
-Projeto de criação de um site de restaurante desenvolvido em grupo durante o curso do SENAI.
-
-**Tecnologias:** Desenvolvimento Web • Trabalho em grupo
-
-</td>
 </tr>
 </table>
 
