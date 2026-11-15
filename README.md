@@ -146,20 +146,7 @@ Transformando exercícios, estudos e ideias em projetos práticos, incluindo tra
 <tr>
 <td colspan="2" align="center">
 
-### #1 • ÁGUA CONSCIENTE
-
-Sistema de monitoramento de consumo de água desenvolvido em dupla. O MVP registra leituras do hidrômetro, calcula o consumo mensal, exibe gráficos, compara períodos e sinaliza aumentos expressivos.
-
-**Status:** MVP inicial • Estrutura de telas criada • Preparado para evolução com GitHub Pages
-
-**Tecnologias:** HTML • CSS • JavaScript • localStorage • Git & GitHub
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### #2 • SITE DE ARCADE
+### #1 • SITE DE ARCADE
 
 O projeto principal do momento: uma experiência de arcade para reunir jogos, identidade visual e interação em um só lugar.
 
@@ -215,7 +202,16 @@ Projeto de desenvolvimento de uma aplicação web para uma pizzaria.
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
+
+### [Água Consciente](https://github.com/gabrielaraujo-eng/ProjetoAgua)
+
+Trabalho acadêmico em dupla para acompanhar o consumo residencial de água e identificar possíveis desperdícios.
+
+**Tecnologias:** HTML • CSS • JavaScript • GitHub Pages
+
+</td>
+<td width="50%">
 
 ### [Vingadores da Programação](https://github.com/gabrielaraujo-eng/VingadoresDaProgramacao)
 
