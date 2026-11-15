@@ -119,7 +119,7 @@ Estudando programação, desenvolvimento web, banco de dados e novas tecnologias
 
 ### PROJETOS
 
-Transformando exercícios, estudos e ideias em projetos práticos.
+Transformando exercícios, estudos e ideias em projetos práticos, incluindo trabalhos desenvolvidos em dupla.
 
 </td>
 
@@ -146,7 +146,20 @@ Transformando exercícios, estudos e ideias em projetos práticos.
 <tr>
 <td colspan="2" align="center">
 
-### #1 • SITE DE ARCADE
+### #1 • ÁGUA CONSCIENTE
+
+Sistema de monitoramento de consumo de água desenvolvido em dupla. O MVP registra leituras do hidrômetro, calcula o consumo mensal, exibe gráficos, compara períodos e sinaliza aumentos expressivos.
+
+**Status:** MVP inicial • Estrutura de telas criada • Preparado para evolução com GitHub Pages
+
+**Tecnologias:** HTML • CSS • JavaScript • localStorage • Git & GitHub
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### #2 • SITE DE ARCADE
 
 O projeto principal do momento: uma experiência de arcade para reunir jogos, identidade visual e interação em um só lugar.
 
@@ -200,6 +213,18 @@ Projeto de desenvolvimento de uma aplicação web para uma pizzaria.
 </td>
 
 </tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### [Vingadores da Programação](https://github.com/gabrielaraujo-eng/VingadoresDaProgramacao)
+
+Projeto de criação de um site de restaurante desenvolvido em grupo durante o curso do SENAI.
+
+**Tecnologias:** Desenvolvimento Web • Trabalho em grupo
+
+</td>
+</tr>
 </table>
 
 ---
@@ -210,14 +235,14 @@ Projeto de desenvolvimento de uma aplicação web para uma pizzaria.
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/203-CONTRIBUIÇÕES-4078c0?style=for-the-badge&labelColor=161b22"></td>
-<td align="center"><img src="https://img.shields.io/badge/7-REPOSITÓRIOS-8957e5?style=for-the-badge&labelColor=161b22"></td>
+<td align="center"><img src="https://img.shields.io/badge/9-REPOSITÓRIOS%20PÚBLICOS-8957e5?style=for-the-badge&labelColor=161b22"></td>
+<td align="center"><img src="https://img.shields.io/badge/1-PROJETO%20EM%20DUPLA-4078c0?style=for-the-badge&labelColor=161b22"></td>
 </tr>
 </table>
 
 <br>
 
-<sub>Dados consultados em 12/11/2026.</sub>
+<sub>Dados consultados em 15/11/2026.</sub>
 
 </div>
 
@@ -291,13 +316,13 @@ Projetos próprios
 <td align="center">
 <b>DESENVOLVIMENTO WEB</b>
 <br>
-HTML • CSS • JavaScript • TypeScript
+HTML • CSS • JavaScript • TypeScript • GitHub Pages
 </td>
 
 <td align="center">
 <b>BANCO DE DADOS</b>
 <br>
-MySQL • Modelagem
+MySQL • Modelagem • localStorage
 </td>
 
 <td align="center">
