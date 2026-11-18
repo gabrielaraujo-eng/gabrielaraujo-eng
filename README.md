@@ -72,34 +72,11 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/gabriel-hypotenuse-calc/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/gabriel-hypotenuse-calc/main/public/og-share.png" alt="Prévia da Calculadora de Hipotenusa" width="100%" />
-      </a><br />
-      <strong>Calculadora de Hipotenusa</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/gabriel-hypotenuse-calc/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/gabriel-hypotenuse-calc">Repositório</a>
-    </td>
-    <td align="center" width="50%">
       <a href="https://gabrielaraujo-eng.github.io/museu-de-linguagens-do-mundo/">
         <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/museu-de-linguagens-do-mundo/main/og-share.png" alt="Prévia do Museu de Linguagens do Mundo" width="100%" />
       </a><br />
       <strong>Museu de Linguagens do Mundo</strong><br />
       <a href="https://gabrielaraujo-eng.github.io/museu-de-linguagens-do-mundo/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/museu-de-linguagens-do-mundo">Repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/prime-calculator/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/prime-calculator/main/og-share.png" alt="Prévia da Calculadora de Números Primos" width="100%" />
-      </a><br />
-      <strong>Calculadora de Números Primos</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/prime-calculator/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/prime-calculator">Repositório</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/math-dictionary-haskell/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/math-dictionary-haskell/main/og-share.png" alt="Prévia do Dicionário de Matemática em Haskell" width="100%" />
-      </a><br />
-      <strong>Dicionário de Matemática em Haskell</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/math-dictionary-haskell/">Abrir apresentação</a> · <a href="https://github.com/gabrielaraujo-eng/math-dictionary-haskell">Repositório</a>
     </td>
   </tr>
 </table>
