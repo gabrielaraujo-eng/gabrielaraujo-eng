@@ -3,8 +3,6 @@
   <p><strong>Desenvolvedor Full Stack em formação · SENAI</strong></p>
   <p>Transformo ideias e estudos em aplicações web, experiências interativas e projetos práticos.</p>
   <p>
-    <a href="https://gabrielaraujo-eng.github.io/projetos/">Portfólio</a>
-    ·
     <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">Jogar Aethra Online</a>
     ·
     <a href="https://github.com/gabrielaraujo-eng?tab=repositories">Projetos no GitHub</a>
@@ -31,12 +29,7 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
   </a>
 </div>
 
-<div align="center">
-  <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">
-    <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/aethra-online/main/assets/aethra-preview.png" alt="Mini tela clicável do Aethra Online" width="100%" />
-  </a>
-  <p><a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/"><strong>▶ Jogar Aethra Online</strong></a> · <a href="https://github.com/gabrielaraujo-eng/aethra-online">Ver repositório</a></p>
-</div>
+<p align="center"><a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/"><strong>▶ Jogar Aethra Online</strong></a> · <a href="https://github.com/gabrielaraujo-eng/aethra-online">Ver repositório</a></p>
 
 RPG 2.5D de exploração e aventura. O jogador cria um personagem, explora o mundo de Aethra, conversa com NPCs, cumpre missões, evolui habilidades, equipa itens e enfrenta os guardiões do Cristal da Aurora.
 
