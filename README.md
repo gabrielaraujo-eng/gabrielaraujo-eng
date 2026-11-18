@@ -80,7 +80,7 @@ Mini-jogo de lógica publicado no portfólio: descubra o código secreto em até
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,threejs,python,cpp,java,haskell,mysql,firebase,git,github" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Three.js, Python, C++, Java, Haskell, MySQL, Firebase, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,threejs,python,cpp,java,haskell,mysql,firebase,git,github" alt="HTML, CSS, JavaScript, Python, C++, Haskell, MySQL, Firebase, Git e GitHub" />
 </p>
 
 ## Formação e contato
