@@ -63,11 +63,11 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
       <a href="https://gabrielaraujo-eng.github.io/CapivaPizza/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/CapivaPizza">Repositório</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/projetos/jogo/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/projetos/main/assets/caca-ao-bug.jpg" alt="Prévia do jogo Caça ao Bug" width="100%" />
+      <a href="https://github.com/gabrielaraujo-eng/jogos-gabriel">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/aethra-online/main/assets/aethra-cover.png" alt="Prévia do catálogo Jogos do Gabriel" width="100%" />
       </a><br />
-      <strong>Caça ao Bug</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/projetos/jogo/">Jogar agora</a> · <a href="https://github.com/gabrielaraujo-eng/projetos/tree/main/jogo">Código</a>
+      <strong>Jogos do Gabriel</strong><br />
+      <a href="https://github.com/gabrielaraujo-eng/jogos-gabriel">Ver catálogo</a> · <a href="https://github.com/gabrielaraujo-eng/jogos-gabriel">Código</a>
     </td>
   </tr>
 </table>
@@ -109,11 +109,11 @@ Coleção organizada de projetos de matemática, programação e desenvolvimento
 
 [Explorar o portfólio](https://gabrielaraujo-eng.github.io/projetos/) · [Ver repositório](https://github.com/gabrielaraujo-eng/projetos)
 
-### Caça ao Bug
+### [Jogos do Gabriel](https://github.com/gabrielaraujo-eng/jogos-gabriel)
 
-Mini-jogo de lógica publicado no portfólio: descubra o código secreto em até seis tentativas.
+Catálogo com os jogos autorais e protótipos encontrados no perfil e no Arcade Gabriel, reunidos em páginas independentes para jogar no navegador.
 
-[Jogar Caça ao Bug](https://gabrielaraujo-eng.github.io/projetos/jogo/) · [Ver no repositório](https://github.com/gabrielaraujo-eng/projetos/tree/main/jogo)
+[Abrir o catálogo](https://github.com/gabrielaraujo-eng/jogos-gabriel) · [Ver repositório](https://github.com/gabrielaraujo-eng/jogos-gabriel)
 
 ### Outros projetos
 
