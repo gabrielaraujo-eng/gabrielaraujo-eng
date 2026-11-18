@@ -17,7 +17,7 @@
 
 Sou estudante de Desenvolvimento de Software no SENAI e gosto de construir soluções que combinam lógica, tecnologia e uma experiência simples para quem usa. Meus projetos incluem aplicações web, ferramentas interativas, estudos de programação e trabalhos feitos em equipe.
 
-Tenho experiência prática de estudo com desenvolvimento front-end, aplicações em React e TypeScript, lógica de programação e bancos de dados relacionais. Também utilizo Git e GitHub para organizar projetos e colaborar.
+Tenho prática em desenvolvimento front-end, aplicações com React e TypeScript, lógica de programação e conceitos de bancos de dados relacionais. Também utilizo Git e GitHub para organizar projetos e colaborar.
 
 ## O que faço
 
