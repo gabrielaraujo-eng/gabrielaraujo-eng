@@ -64,7 +64,7 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
     </td>
     <td align="center" width="50%">
       <a href="https://gabrielaraujo-eng.github.io/matematica-blitz/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/matematica-blitz/main/assets/game-grid.png" alt="Prévia do jogo Matemática Blitz" width="100%" />
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/matematica-blitz/main/assets/matematica-blitz-card.svg" alt="Prévia do jogo Matemática Blitz" width="100%" />
       </a><br />
       <strong>Matemática Blitz</strong><br />
       <a href="https://gabrielaraujo-eng.github.io/matematica-blitz/">Jogar agora</a> · <a href="https://github.com/gabrielaraujo-eng/matematica-blitz">Repositório</a>
