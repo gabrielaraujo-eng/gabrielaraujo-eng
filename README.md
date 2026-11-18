@@ -63,11 +63,11 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
       <a href="https://gabrielaraujo-eng.github.io/CapivaPizza/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/CapivaPizza">Repositório</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/projetos/jogo/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/projetos/main/assets/caca-ao-bug.jpg" alt="Prévia do jogo Caça ao Bug" width="100%" />
+      <a href="https://gabrielaraujo-eng.github.io/matematica-blitz/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/matematica-blitz/main/assets/game-grid.png" alt="Prévia do jogo Matemática Blitz" width="100%" />
       </a><br />
-      <strong>Caça ao Bug</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/projetos/jogo/">Jogar agora</a> · <a href="https://github.com/gabrielaraujo-eng/projetos/tree/main/jogo">Código</a>
+      <strong>Matemática Blitz</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/matematica-blitz/">Jogar agora</a> · <a href="https://github.com/gabrielaraujo-eng/matematica-blitz">Repositório</a>
     </td>
   </tr>
 </table>
@@ -109,11 +109,12 @@ Coleção organizada de projetos de matemática, programação e desenvolvimento
 
 [Explorar o portfólio](https://gabrielaraujo-eng.github.io/projetos/) · [Ver repositório](https://github.com/gabrielaraujo-eng/projetos)
 
-### Caça ao Bug
+### [Matemática Blitz](https://gabrielaraujo-eng.github.io/matematica-blitz/)
 
-Mini-jogo de lógica publicado no portfólio: descubra o código secreto em até seis tentativas.
+Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, Maratona, Treino livre e Desafio do dia), quatro dificuldades, combos com bônus de velocidade, recordes, estatísticas e conquistas salvos apenas no seu navegador.
 
-[Jogar Caça ao Bug](https://gabrielaraujo-eng.github.io/projetos/jogo/) · [Ver no repositório](https://github.com/gabrielaraujo-eng/projetos/tree/main/jogo)
+**Tecnologias:** HTML · CSS · JavaScript · Web Audio API · SVG · localStorage  
+[Jogar Matemática Blitz](https://gabrielaraujo-eng.github.io/matematica-blitz/) · [Ver repositório](https://github.com/gabrielaraujo-eng/matematica-blitz)
 
 ### Outros projetos
 
