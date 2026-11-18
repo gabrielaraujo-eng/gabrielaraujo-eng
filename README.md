@@ -19,6 +19,59 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI e gosto de construir solu�
 
 Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vite, JavaScript, lógica de programação, bancos de dados relacionais, Firebase e versionamento com Git e GitHub.
 
+## Pré-visualizações dos projetos
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://gabriel-lucio-arcade-c27ec.web.app/">
+        <img src="https://gabriel-lucio-arcade-c27ec.web.app/og-image.png" alt="Prévia do Arcade Gabriel" width="100%" />
+      </a><br />
+      <strong>Arcade Gabriel</strong><br />
+      <a href="https://gabriel-lucio-arcade-c27ec.web.app/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/arcade-site">Repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://gotavertice-gj.web.app/apresentacao/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/GotaVertice/main/public/assets/gotavertice-social.jpg" alt="Prévia do GotaVértice" width="100%" />
+      </a><br />
+      <strong>GotaVértice</strong><br />
+      <a href="https://gotavertice-gj.web.app/apresentacao/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/GotaVertice">Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://gabrielaraujo-eng.github.io/projetos/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/projetos/main/og-share.png" alt="Prévia do portfólio de projetos" width="100%" />
+      </a><br />
+      <strong>Portfólio de projetos</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/projetos/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/projetos">Repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://gabrielaraujo-eng.github.io/SmartCoffee/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/SmartCoffee/main/IMG/og-share.jpg" alt="Prévia do SmartCoffee" width="100%" />
+      </a><br />
+      <strong>SmartCoffee</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/SmartCoffee/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/SmartCoffee">Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://gabrielaraujo-eng.github.io/CapivaPizza/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/CapivaPizza/main/img/og-share.jpg" alt="Prévia do Capiva-Pizza" width="100%" />
+      </a><br />
+      <strong>Capiva-Pizza</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/CapivaPizza/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/CapivaPizza">Repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://gabrielaraujo-eng.github.io/projetos/jogo/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/projetos/main/assets/caca-ao-bug.jpg" alt="Prévia do jogo Caça ao Bug" width="100%" />
+      </a><br />
+      <strong>Caça ao Bug</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/projetos/jogo/">Jogar agora</a> · <a href="https://github.com/gabrielaraujo-eng/projetos/tree/main/jogo">Código</a>
+    </td>
+  </tr>
+</table>
+
 ## Projetos em destaque
 
 ### [Aethra Online](https://github.com/gabrielaraujo-eng/aethra-online)
