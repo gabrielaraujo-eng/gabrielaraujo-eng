@@ -27,6 +27,12 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
 
 <div align="center">
   <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">
+    <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/aethra-online/main/assets/aethra-cover.png" alt="Capa do Aethra Online" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">
     <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/aethra-online/main/assets/aethra-preview.png" alt="Mini tela clicável do Aethra Online" width="100%" />
   </a>
   <p><a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/"><strong>▶ Jogar Aethra Online</strong></a> · <a href="https://github.com/gabrielaraujo-eng/aethra-online">Ver repositório</a></p>
