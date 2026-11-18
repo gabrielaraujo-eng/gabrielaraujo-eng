@@ -73,7 +73,7 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
   <tr>
     <td align="center" width="50%">
       <a href="https://gabrielaraujo-eng.github.io/gabriel-hypotenuse-calc/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/gabriel-hypotenuse-calc/main/dist/og-share.png" alt="Prévia da Calculadora de Hipotenusa" width="100%" />
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/gabriel-hypotenuse-calc/main/public/og-share.png" alt="Prévia da Calculadora de Hipotenusa" width="100%" />
       </a><br />
       <strong>Calculadora de Hipotenusa</strong><br />
       <a href="https://gabrielaraujo-eng.github.io/gabriel-hypotenuse-calc/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/gabriel-hypotenuse-calc">Repositório</a>
