@@ -5,7 +5,7 @@
   <p>
     <a href="https://gabrielaraujo-eng.github.io/projetos/">Portfólio</a>
     ·
-    <a href="https://gabrielaraujo-eng.github.io/aethra-online/">Jogar Aethra Online</a>
+    <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">Jogar Aethra Online</a>
     ·
     <a href="https://github.com/gabrielaraujo-eng?tab=repositories">Projetos no GitHub</a>
     ·
@@ -28,7 +28,7 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
 RPG 2.5D de exploração e aventura. O jogador cria um personagem, explora o mundo de Aethra, conversa com NPCs, cumpre missões, evolui habilidades, equipa itens e enfrenta os guardiões do Cristal da Aurora.
 
 **Tecnologias:** HTML · CSS · JavaScript · Three.js · localStorage  
-[Jogar no GitHub Pages](https://gabrielaraujo-eng.github.io/aethra-online/) · [Jogar no Arcade Gabriel](https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/) · [Ver código](https://github.com/gabrielaraujo-eng/aethra-online)
+[Jogar no Arcade Gabriel](https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/) · [Ver código](https://github.com/gabrielaraujo-eng/aethra-online)
 
 ### [Arcade Gabriel](https://github.com/gabrielaraujo-eng/arcade-site)
 
@@ -49,6 +49,12 @@ Aplicação web para acompanhar o consumo de água de uma residência. Permite r
 Coleção organizada de projetos de matemática, programação e desenvolvimento web, incluindo o Museu de Linguagens do Mundo, a Calculadora de Hipotenusa, estudos em Python e uma aplicação de terminal em Haskell.
 
 [Explorar o portfólio](https://gabrielaraujo-eng.github.io/projetos/) · [Ver repositório](https://github.com/gabrielaraujo-eng/projetos)
+
+### Caça ao Bug
+
+Mini-jogo de lógica publicado no portfólio: descubra o código secreto em até seis tentativas.
+
+[Jogar Caça ao Bug](https://gabrielaraujo-eng.github.io/projetos/jogo/) · [Ver no repositório](https://github.com/gabrielaraujo-eng/projetos/tree/main/jogo)
 
 ### Outros projetos
 
