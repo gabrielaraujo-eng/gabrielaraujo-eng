@@ -1,423 +1,76 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=GABRIEL%20LÚCIO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROGRAMMING%20%7C%20TECHNOLOGY&descAlignY=58&descSize=16&theme=tokyonight"/>
-
-# GABRIEL LÚCIO
-
-### Full Stack Developer
-
-<p>
-Construindo projetos, aprendendo tecnologias<br>
-e transformando ideias em código.
-</p>
-
-<a href="https://github.com/gabrielaraujo-eng">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/gabriel-lúcio-de-araújo-b179b93b4/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <h1>Gabriel Lúcio de Araújo</h1>
+  <p><strong>Desenvolvedor Full Stack em formação · SENAI</strong></p>
+  <p>Transformo ideias e estudos em aplicações web, experiências interativas e projetos práticos.</p>
+  <p>
+    <a href="https://gabrielaraujo-eng.github.io/projetos/">Portfólio</a>
+    ·
+    <a href="https://github.com/gabrielaraujo-eng?tab=repositories">Projetos no GitHub</a>
+    ·
+    <a href="https://www.linkedin.com/in/gabriel-lúcio-de-araújo-b179b93b4/">LinkedIn</a>
+  </p>
 </div>
 
 ---
 
-## 01 • SOBRE MIM
+## Sobre mim
 
-<table>
-<tr>
-<td width="60%">
+Sou estudante de Desenvolvimento de Software no SENAI e gosto de construir soluções que combinam lógica, tecnologia e uma experiência simples para quem usa. Meus projetos incluem aplicações web, ferramentas interativas, estudos de programação e trabalhos feitos em equipe.
 
-### Olá, eu sou o Gabriel.
+Tenho experiência prática de estudo com desenvolvimento front-end, aplicações em React e TypeScript, lógica de programação e bancos de dados relacionais. Também utilizo Git e GitHub para organizar projetos e colaborar.
 
-Sou desenvolvedor em constante evolução e gosto de transformar ideias em projetos reais.
+## O que faço
 
-Tenho interesse em desenvolvimento de software, aplicações web, programação, banco de dados e tecnologia.
+- Crio páginas e interfaces web responsivas com HTML, CSS e JavaScript.
+- Desenvolvo aplicações interativas com React, TypeScript e Vite.
+- Pratico lógica e resolução de problemas com Python, C++, Java e Haskell.
+- Trabalho com conceitos de SQL, MySQL e modelagem de dados.
+- Organizo projetos com Git e GitHub e aplico práticas de colaboração em equipe.
 
-Atualmente estou focado em melhorar minhas habilidades, criar projetos e aprender novas ferramentas.
+## Projetos em destaque
 
-</td>
+### [GotaVértice](https://github.com/gabrielaraujo-eng/GotaVertice)
+Aplicação web para acompanhar o consumo de água de uma residência. Permite registrar leituras do hidrômetro, consultar histórico e gráficos de consumo e receber alertas quando há aumento expressivo. O projeto utiliza autenticação e armazenamento em nuvem.
 
-<td width="40%">
+**Tecnologias:** JavaScript · Firebase Authentication · Cloud Firestore  
+[Ver demonstração](https://gotavertice-gj.web.app/apresentacao/) · [Ver código](https://github.com/gabrielaraujo-eng/GotaVertice)
 
-<pre>
-&gt; whoami
+### [Calculadora de Hipotenusa](https://github.com/gabrielaraujo-eng/projetos/tree/main/sites/gabriel-hypotenuse-calc)
+Aplicação web interativa para calcular a hipotenusa, com opção de usar um coeficiente calculado automaticamente ou informar um valor manual.
 
-Gabriel Lúcio
-
-&gt; status
-
-Learning...
-
-&gt; focus
-
-Full Stack
-
-&gt; goal
-
-Build &amp; Evolve
-</pre>
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 • TECNOLOGIAS
-
-<div align="center">
-
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,haskell,javascript,typescript">
-
-<br><br>
-
-### Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript">
-
-<br><br>
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql">
-
-<br><br>
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux">
-
-</div>
-
----
-
-## 03 • O QUE ESTOU FAZENDO
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### DESENVOLVIMENTO
-
-Criando aplicações e projetos utilizando diferentes linguagens e tecnologias.
-
-</td>
-
-<td width="33%" align="center">
-
-### APRENDIZADO
-
-Estudando programação, desenvolvimento web, banco de dados e novas tecnologias.
-
-</td>
-
-<td width="33%" align="center">
-
-### PROJETOS
-
-Transformando exercícios, estudos e ideias em projetos práticos, incluindo trabalhos desenvolvidos em dupla.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 04 • PROJETOS
-
-<div align="center">
-
-### Projetos acadêmicos e pessoais
-
-<a href="https://github.com/gabrielaraujo-eng">
-<img src="https://img.shields.io/badge/VER%20MEUS%20REPOSITÓRIOS-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td colspan="2" align="center">
-
-### #1 • SITE DE ARCADE
-
-O projeto principal do momento: uma experiência de arcade para reunir jogos, identidade visual e interação em um só lugar.
-
-**Status:** Em desenvolvimento • Projeto secreto
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Tecnologias:** React · TypeScript · Vite  
+[Ver demonstração](https://gabrielaraujo-eng.github.io/projetos/sites/gabriel-hypotenuse-calc/dist/) · [Ver código](https://github.com/gabrielaraujo-eng/projetos/tree/main/sites/gabriel-hypotenuse-calc)
 
 ### [SmartCoffee](https://github.com/gabrielaraujo-eng/SmartCoffee)
+Landing page responsiva para uma cafeteria fictícia, com apresentação da marca, produtos, ambiente e informações de contato. Projeto desenvolvido para praticar estrutura semântica, organização visual e adaptação a diferentes telas.
 
-Projeto de desenvolvimento web para uma cafeteria, trabalhando estrutura de páginas, organização de conteúdo e identidade visual.
+**Tecnologias:** HTML · CSS · Flexbox · Media Queries  
+[Ver demonstração](https://gabrielaraujo-eng.github.io/SmartCoffee/) · [Ver código](https://github.com/gabrielaraujo-eng/SmartCoffee)
 
-**Tecnologias:** HTML • CSS • JavaScript
+### [Capiva-Pizza](https://github.com/gabrielaraujo-eng/CapivaPizza)
+Projeto educacional em equipe para uma pizzaria fictícia. A proposta inclui apresentação do negócio, cardápio, detalhes dos produtos e uma experiência de solicitação de reserva.
 
-</td>
+**Tecnologias:** HTML · CSS · JavaScript · Git · GitHub  
+[Ver demonstração](https://gabrielaraujo-eng.github.io/CapivaPizza/) · [Ver código](https://github.com/gabrielaraujo-eng/CapivaPizza)
 
-<td width="50%">
+### [Portfólio de estudos e projetos](https://github.com/gabrielaraujo-eng/projetos)
+Coleção organizada de cinco projetos, incluindo experiências de matemática, uma calculadora de números primos, um museu de linguagens de programação e uma aplicação de terminal em Haskell.
 
-### [Curso SENAI](https://github.com/gabrielaraujo-eng/Curso_senai)
+[Explorar o portfólio](https://gabrielaraujo-eng.github.io/projetos/) · [Ver repositório](https://github.com/gabrielaraujo-eng/projetos)
 
-Projeto acadêmico envolvendo modelagem de banco de dados, entidades, atributos e relacionamentos.
+## Tecnologias
 
-**Tecnologias:** MySQL • Modelagem de Dados
+Tecnologias que venho estudando e aplicando em projetos:
 
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,python,cpp,java,haskell,mysql,git,github" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Python, C++, Java, Haskell, MySQL, Git e GitHub" />
+</p>
 
-</tr>
+## Formação e colaboração
 
-<tr>
+Curso Técnico em Desenvolvimento de Sistemas no SENAI, com estudos de desenvolvimento web, back-end, bancos de dados e modelagem. Em projetos de equipe, pratico comunicação, organização de tarefas e versionamento com Git e GitHub.
 
-<td width="50%">
+## Contato
 
-### [Projetos de Programação](https://github.com/gabrielaraujo-eng/projetos)
-
-Exercícios e aplicações desenvolvidas durante os estudos de programação.
-
-**Tecnologias:** Python • C++ • Java
-
-</td>
-
-<td width="50%">
-
-### [CapivaPizza](https://github.com/gabrielaraujo-eng/CapivaPizza)
-
-Projeto de desenvolvimento de uma aplicação web para uma pizzaria.
-
-**Tecnologias:** Desenvolvimento Web • Projeto pessoal
-
-</td>
-
-</tr>
-
-<tr>
-<td width="50%">
-
-### [Água Consciente](https://github.com/gabrielaraujo-eng/ProjetoAgua)
-
-Trabalho acadêmico em dupla para acompanhar o consumo residencial de água e identificar possíveis desperdícios.
-
-**Tecnologias:** HTML • CSS • JavaScript • GitHub Pages
-
-</td>
-</tr>
-</table>
-
----
-
-## 05 • GITHUB ANALYTICS
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/9-REPOSITÓRIOS%20PÚBLICOS-8957e5?style=for-the-badge&labelColor=161b22"></td>
-<td align="center"><img src="https://img.shields.io/badge/1-PROJETO%20EM%20DUPLA-4078c0?style=for-the-badge&labelColor=161b22"></td>
-</tr>
-</table>
-
-<br>
-
-<sub>Dados consultados em 15/11/2026.</sub>
-
-</div>
-
----
-
-## 06 • MINHA JORNADA
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 2024
-
-Lógica de Programação
-
-Python
-
-Primeiros projetos
-
-</td>
-
-<td align="center" width="33%">
-
-### 2025
-
-Desenvolvimento Web
-
-Banco de Dados
-
-Git & GitHub
-
-</td>
-
-<td align="center" width="33%">
-
-### 2026
-
-Full Stack
-
-Novas linguagens
-
-Projetos próprios
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-`Aprender` → `Praticar` → `Construir` → `Evoluir`
-
-</div>
-
----
-
-## 07 • ATUALMENTE ESTUDANDO
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,typescript,mysql,git,github,html,css">
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center">
-<b>DESENVOLVIMENTO WEB</b>
-<br>
-HTML • CSS • JavaScript • TypeScript • GitHub Pages
-</td>
-
-<td align="center">
-<b>BANCO DE DADOS</b>
-<br>
-MySQL • Modelagem • localStorage
-</td>
-
-<td align="center">
-<b>PROGRAMAÇÃO</b>
-<br>
-Python • Java • C++
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 08 • GITHUB
-
-<div align="center">
-
-<a href="https://github.com/gabrielaraujo-eng">
-<img src="https://img.shields.io/badge/MEU%20GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### PROJETOS
-
-<br>
-
-<img src="https://img.shields.io/badge/Em-Desenvolvimento-161B22?style=flat-square">
-
-</td>
-
-<td align="center" width="33%">
-
-### TECNOLOGIAS
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=white">
-
-</td>
-
-<td align="center" width="33%">
-
-### FOCO
-
-<br>
-
-<img src="https://img.shields.io/badge/Full%20Stack-161B22?style=flat-square&logo=code&logoColor=white">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<a href="https://github.com/gabrielaraujo-eng?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORAR%20REPOSITÓRIOS-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 09 • CONTATO
-
-<div align="center">
-
-### Vamos construir algo juntos?
-<br>
-
-<a href="https://github.com/Nagato09-dev">
-<img src="https://img.shields.io/badge/GITHUB%20PRINCIPAL-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/gabrielaraujo-eng">
-<img src="https://img.shields.io/badge/GITHUB%20SECUNDÁRIO-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:gabriellucio0908@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-`Código` • `Criatividade` • `Evolução`
-
-<br><br>
-
-### Sempre aprendendo. Sempre construindo.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&theme=tokyonight">
-
-</div>
+- E-mail: [gabriellucio0908@gmail.com](mailto:gabriellucio0908@gmail.com)
+- Outra conta com estudos e projetos: [@Nagato09-dev](https://github.com/Nagato09-dev)
