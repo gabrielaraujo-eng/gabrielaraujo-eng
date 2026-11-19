@@ -134,8 +134,7 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
 ## O que faço
 
 - Crio páginas e interfaces responsivas com HTML, CSS e JavaScript.
-- Desenvolvo aplicações interativas com React, TypeScript e Vite.
-- Construo experiências de navegador e jogos com Three.js.
+- Construo experiências de navegador e jogos.
 - Pratico lógica e resolução de problemas com Python, C++, Java e Haskell.
 - Trabalho com SQL, MySQL, modelagem de dados e Firebase.
 - Organizo projetos com Git e GitHub e aplico práticas de colaboração em equipe.
