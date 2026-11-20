@@ -88,50 +88,6 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
   </tr>
 </table>
 
-## Projetos em destaque
-
-### [Aethra Online](https://github.com/gabrielaraujo-eng/aethra-online)
-
-<div align="center">
-  <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">
-    <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/aethra-online/main/assets/aethra-cover.png" alt="Capa do Aethra Online" width="100%" />
-  </a>
-</div>
-
-<p align="center"><a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/"><strong>▶ Jogar Aethra Online</strong></a> · <a href="https://github.com/gabrielaraujo-eng/aethra-online">Ver repositório</a></p>
-
-RPG 2.5D de exploração e aventura. O jogador cria um personagem, explora o mundo de Aethra, conversa com NPCs, cumpre missões, evolui habilidades, equipa itens e enfrenta os guardiões do Cristal da Aurora.
-
-**Tecnologias:** HTML · CSS · JavaScript · Three.js · localStorage  
-[Jogar no Arcade Gabriel](https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/) · [Ver código](https://github.com/gabrielaraujo-eng/aethra-online)
-
-### [Arcade Gabriel](https://github.com/gabrielaraujo-eng/arcade-site)
-
-Plataforma em desenvolvimento para reunir jogos autorais, protótipos e experiências interativas em um catálogo com lobby, histórico pessoal e integração de pontuação.
-
-**Tecnologias:** HTML · CSS · JavaScript · Firebase Hosting · Firestore  
-[Abrir o Arcade](https://gabriel-lucio-arcade-c27ec.web.app/) · [Ler a documentação](https://github.com/gabrielaraujo-eng/arcade-site)
-
-### [GotaVértice](https://github.com/gabrielaraujo-eng/GotaVertice)
-
-Aplicação web para acompanhar o consumo de água de uma residência. Permite registrar leituras do hidrômetro, consultar histórico e gráficos de consumo e receber alertas quando há aumento expressivo.
-
-**Tecnologias:** JavaScript · Firebase Authentication · Cloud Firestore  
-[Ver apresentação](https://gotavertice-gj.web.app/apresentacao/) · [Site publicado](https://gotavertice-gj.web.app/apresentacao/) · [Ver código](https://github.com/gabrielaraujo-eng/GotaVertice)
-
-### [Matemática Blitz](https://gabrielaraujo-eng.github.io/matematica-blitz/)
-
-Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, Maratona, Treino livre e Desafio do dia), quatro dificuldades, combos com bônus de velocidade, recordes, estatísticas e conquistas salvos apenas no seu navegador.
-
-**Tecnologias:** HTML · CSS · JavaScript · Web Audio API · SVG · localStorage  
-[Jogar Matemática Blitz](https://gabrielaraujo-eng.github.io/matematica-blitz/) · [Ver repositório](https://github.com/gabrielaraujo-eng/matematica-blitz)
-
-### Outros projetos
-
-- [SmartCoffee](https://github.com/gabrielaraujo-eng/SmartCoffee) · [abrir demonstração](https://gabrielaraujo-eng.github.io/SmartCoffee/)
-- [Capiva-Pizza](https://github.com/gabrielaraujo-eng/CapivaPizza) · [abrir demonstração](https://gabrielaraujo-eng.github.io/CapivaPizza/)
-- [Curso SENAI — exercícios e estudos do curso técnico](https://gabrielaraujo-eng.github.io/Curso_senai/)
-
 ## O que faço
 
 - Crio páginas e interfaces responsivas com HTML, CSS e JavaScript.
