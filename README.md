@@ -165,6 +165,29 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielaraujo-eng&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielaraujo-eng&color=ff0000&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
+  <img src="https://img.shields.io/github/followers/gabrielaraujo-eng?style=for-the-badge&color=ff0000&labelColor=000000&label=SEGUIDORES" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/gabrielaraujo-eng?style=for-the-badge&color=ff0000&labelColor=000000&label=ESTRELAS" alt="Estrelas recebidas nos repositórios" />
+</p>
+
+### Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/gabrielaraujo-eng/aethra-online"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaraujo-eng&repo=aethra-online&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Card do repositório Aethra Online" width="49%" /></a>
+  <a href="https://github.com/gabrielaraujo-eng/arcade-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaraujo-eng&repo=arcade-site&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Card do repositório Arcade Gabriel" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/gabrielaraujo-eng/GotaVertice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaraujo-eng&repo=GotaVertice&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Card do repositório GotaVértice" width="49%" /></a>
+  <a href="https://github.com/gabrielaraujo-eng/matematica-blitz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaraujo-eng&repo=matematica-blitz&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Card do repositório Matemática Blitz" width="49%" /></a>
+</p>
+
+### Calendário de contribuições
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff0000/gabrielaraujo-eng" alt="Calendário de contribuições de Gabriel Lúcio de Araújo" />
+</p>
+
 ### Tech Stack
 
 <p align="center">
