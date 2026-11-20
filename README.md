@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gabriel Lúcio de Araújo</h1>
-  <p><strong>Desenvolvedor Full Stack em formação · SENAI</strong></p>
+  <p><strong>Desenvolvedor Full Stack em formação · <a href="https://gabrielaraujo-eng.github.io/Curso_senai/">Curso_SENAI</a></strong></p>
   <p>Transformo ideias e estudos em aplicações web, experiências interativas e projetos práticos.</p>
   <p>
     <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">Jogar Aethra Online</a>
