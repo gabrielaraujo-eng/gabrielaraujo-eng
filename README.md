@@ -146,6 +146,17 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
   <img src="https://skillicons.dev/icons?i=html,css,js,python,haskell,mysql,firebase,git,github" alt="HTML, CSS, JavaScript, Python, C++, Haskell, MySQL, Firebase, Git e GitHub" />
 </p>
 
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujo-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Gabriel Lúcio de Araújo" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaraujo-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Principais linguagens de Gabriel Lúcio de Araújo" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielaraujo-eng&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+</p>
+
 ## Formação e contato
 
 Curso Técnico em Desenvolvimento de Sistemas no SENAI, com estudos de desenvolvimento web, back-end, bancos de dados e modelagem. Em projetos de equipe, pratico comunicação, organização de tarefas e versionamento.
