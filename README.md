@@ -130,7 +130,7 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
 
 - [SmartCoffee](https://github.com/gabrielaraujo-eng/SmartCoffee) · [abrir demonstração](https://gabrielaraujo-eng.github.io/SmartCoffee/)
 - [Capiva-Pizza](https://github.com/gabrielaraujo-eng/CapivaPizza) · [abrir demonstração](https://gabrielaraujo-eng.github.io/CapivaPizza/)
-- [Curso SENAI — exercícios e estudos do curso técnico](https://github.com/gabrielaraujo-eng/Curso_senai)
+- [Curso SENAI — exercícios e estudos do curso técnico](https://gabrielaraujo-eng.github.io/Curso_senai/)
 
 ## O que faço
 
