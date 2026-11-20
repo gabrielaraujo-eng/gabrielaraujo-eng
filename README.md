@@ -149,7 +149,7 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujo-eng&show_icons=true&include_all_commits=true&rank_icon=github&line_height=27&hide_border=false&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Estatísticas do GitHub e classificação de Gabriel Lúcio de Araújo" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujo-eng&show_icons=true&include_all_commits=true&rank_icon=default&line_height=27&hide_border=false&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Estatísticas do GitHub de Gabriel Lúcio de Araújo, classificação B+" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaraujo-eng&layout=compact&langs_count=10&hide_border=false&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Principais linguagens de Gabriel Lúcio de Araújo" height="180" />
 </p>
 
@@ -165,23 +165,17 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielaraujo-eng&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielaraujo-eng&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Troféus do GitHub" />
-</p>
-
 ### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff0000" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff0000" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ff0000" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff0000" alt="React" />
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=ff0000" alt="Vite" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff0000" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ff0000" alt="C++" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ff0000" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ff0000" alt="Express" />
