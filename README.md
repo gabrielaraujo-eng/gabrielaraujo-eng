@@ -40,27 +40,27 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/math-formulas-site/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/math-formulas-site/main/og-share.png" alt="Prévia do site de fórmulas matemáticas" width="100%" />
+      <a href="https://gabrielaraujo-eng.github.io/JavaScript-Visualmente/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/JavaScript-Visualmente/main/public/assets/javascript-visualmente-og-v2.jpg" alt="Prévia do JavaScript Visualmente" width="100%" />
       </a><br />
-      <strong>Fórmulas Matemáticas</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/math-formulas-site/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/math-formulas-site">Repositório</a>
+      <strong>JavaScript Visualmente</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/JavaScript-Visualmente/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/JavaScript-Visualmente">Repositório</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/SmartCoffee/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/SmartCoffee/main/IMG/og-share.jpg" alt="Prévia do SmartCoffee" width="100%" />
+      <a href="https://gabrielaraujo-eng.github.io/museu-de-linguagens-do-mundo/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/museu-de-linguagens-do-mundo/main/og-share.png" alt="Prévia do Museu de Linguagens do Mundo" width="100%" />
       </a><br />
-      <strong>SmartCoffee</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/SmartCoffee/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/SmartCoffee">Repositório</a>
+      <strong>Museu de Linguagens do Mundo</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/museu-de-linguagens-do-mundo/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/museu-de-linguagens-do-mundo">Repositório</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/CapivaPizza/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/CapivaPizza/main/img/og-share.jpg" alt="Prévia do Capiva-Pizza" width="100%" />
+      <a href="https://gabrielaraujo-eng.github.io/provao-paulista-2027/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/provao-paulista-2027/main/public/assets/provao-paulista-2027-og.png" alt="Prévia do Provão Paulista 2027" width="100%" />
       </a><br />
-      <strong>Capiva-Pizza</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/CapivaPizza/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/CapivaPizza">Repositório</a>
+      <strong>Provão Paulista 2027</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/provao-paulista-2027/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/provao-paulista-2027">Repositório</a>
     </td>
     <td align="center" width="50%">
       <a href="https://gabrielaraujo-eng.github.io/matematica-blitz/">
@@ -79,11 +79,11 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
       <a href="https://gabrielaraujo-eng.github.io/gabriel-hypotenuse-calc/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/gabriel-hypotenuse-calc">Repositório</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://gabrielaraujo-eng.github.io/museu-de-linguagens-do-mundo/">
-        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/museu-de-linguagens-do-mundo/main/og-share.png" alt="Prévia do Museu de Linguagens do Mundo" width="100%" />
+      <a href="https://gabrielaraujo-eng.github.io/SmartCoffee/">
+        <img src="https://raw.githubusercontent.com/gabrielaraujo-eng/SmartCoffee/main/IMG/og-share.jpg" alt="Prévia do SmartCoffee" width="100%" />
       </a><br />
-      <strong>Museu de Linguagens do Mundo</strong><br />
-      <a href="https://gabrielaraujo-eng.github.io/museu-de-linguagens-do-mundo/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/museu-de-linguagens-do-mundo">Repositório</a>
+      <strong>SmartCoffee</strong><br />
+      <a href="https://gabrielaraujo-eng.github.io/SmartCoffee/">Abrir projeto</a> · <a href="https://github.com/gabrielaraujo-eng/SmartCoffee">Repositório</a>
     </td>
   </tr>
 </table>
