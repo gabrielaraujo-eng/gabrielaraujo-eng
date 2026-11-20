@@ -87,6 +87,7 @@ Tenho experiência prática com desenvolvimento front-end, React, TypeScript, Vi
     </td>
   </tr>
 </table>
+
 ## Projetos em destaque
 
 ### [Aethra Online](https://github.com/gabrielaraujo-eng/aethra-online)
@@ -129,7 +130,7 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
 
 - [SmartCoffee](https://github.com/gabrielaraujo-eng/SmartCoffee) · [abrir demonstração](https://gabrielaraujo-eng.github.io/SmartCoffee/)
 - [Capiva-Pizza](https://github.com/gabrielaraujo-eng/CapivaPizza) · [abrir demonstração](https://gabrielaraujo-eng.github.io/CapivaPizza/)
-- [Curso SENAI](https://github.com/gabrielaraujo-eng/Curso_senai) · exercícios e estudos do curso técnico
+- [Curso SENAI — exercícios e estudos do curso técnico](https://github.com/gabrielaraujo-eng/Curso_senai)
 
 ## O que faço
 
