@@ -116,7 +116,7 @@ Plataforma em desenvolvimento para reunir jogos autorais, protótipos e experiê
 Aplicação web para acompanhar o consumo de água de uma residência. Permite registrar leituras do hidrômetro, consultar histórico e gráficos de consumo e receber alertas quando há aumento expressivo.
 
 **Tecnologias:** JavaScript · Firebase Authentication · Cloud Firestore  
-[Ver apresentação](https://gotavertice-gj.web.app/apresentacao/) · [GitHub Pages](https://gabrielaraujo-eng.github.io/GotaVertice/) · [Ver código](https://github.com/gabrielaraujo-eng/GotaVertice)
+[Ver apresentação](https://gotavertice-gj.web.app/apresentacao/) · [Site publicado](https://gotavertice-gj.web.app/apresentacao/) · [Ver código](https://github.com/gabrielaraujo-eng/GotaVertice)
 
 ### [Matemática Blitz](https://gabrielaraujo-eng.github.io/matematica-blitz/)
 
