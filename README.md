@@ -149,12 +149,12 @@ Jogo de contas rápidas no navegador: cinco modos (Relâmpago, Sobrevivência, M
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujo-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Gabriel Lúcio de Araújo" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaraujo-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Principais linguagens de Gabriel Lúcio de Araújo" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujo-eng&show_icons=true&hide_border=false&rank_icon=github&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Estatísticas do GitHub de Gabriel Lúcio de Araújo, incluindo ranking por letras" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaraujo-eng&layout=compact&hide_border=false&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Principais linguagens de Gabriel Lúcio de Araújo" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielaraujo-eng&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com?user=gabrielaraujo-eng&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border=ff0000" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ## Formação e contato
